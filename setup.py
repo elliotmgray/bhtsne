@@ -8,7 +8,7 @@ if sys.version_info.major != 3:
 setup(
     name="bhtsne",
     description="Dimensionality Reduction technique",
-    version="2016-03-08",
+    version="",
     author="Laurens van der Maaten",
     author_email="lvdmaaten@gmail.com",
     packages=find_packages(),
